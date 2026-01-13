@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Summer Cotton Dress",
+      "description": "Lightweight cotton dress perfect for summer wear",
+      "price": 89.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38",
+      "rating": 4.5,
+      "stock": 18,
+      "colors": ["Blue", "White", "Pink"],
+      "sizes": ["S", "M", "L", "XL"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Casual T-Shirt",
+      "description": "Soft fabric casual t-shirt for everyday comfort",
+      "price": 34.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "rating": 4.2,
+      "stock": 30,
+      "colors": ["Black", "White", "Gray"],
+      "sizes": ["S", "M", "L"],
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Leather Handbag",
+      "description": "Premium leather handbag with spacious compartments",
+      "price": 129.99,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3",
+      "rating": 4.6,
+      "stock": 10,
+      "colors": ["Brown", "Black"],
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Luxury Wrist Watch",
+      "description": "Elegant wrist watch with leather strap",
+      "price": 199.99,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "rating": 4.8,
+      "stock": 6,
+      "colors": ["Silver", "Gold"],
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Wireless Headphones",
+      "description": "Noise-cancelling over-ear wireless headphones",
+      "price": 179.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "rating": 4.4,
+      "stock": 14,
+      "colors": ["Black", "White"],
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "Smart Fitness Watch",
+      "description": "Fitness smartwatch with heart rate and sleep tracking",
+      "price": 149.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1745256375848-1d599594635d",
+      "rating": 4.3,
+      "stock": 20,
+      "colors": ["Black", "Blue"],
+      "featured": true
+    },
+    {
+      "id": 7,
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes with extra cushioning",
+      "price": 99.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "rating": 4.5,
+      "stock": 22,
+      "colors": ["White", "Black", "Red"],
+      "sizes": ["7", "8", "9", "10", "11"],
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with powerful bass",
+      "price": 79.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab",
+      "rating": 4.4,
+      "stock": 16,
+      "colors": ["Black", "Red"],
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Minimalist Backpack",
+      "description": "Durable backpack suitable for travel and office",
+      "price": 69.99,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1591534577302-1696205bb2bc",
+      "rating": 4.3,
+      "stock": 25,
+      "colors": ["Gray", "Black"],
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "Ergonomic Office Chair",
+      "description": "Comfortable office chair with lumbar support",
+      "price": 249.99,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
+      "rating": 4.7,
+      "stock": 8,
+      "colors": ["Black", "Gray"],
+      "featured": true
+    }
+  ]
+}
